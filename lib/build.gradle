@@ -1,0 +1,5 @@
+dependencies {
+    constraints {
+        compile 'junit:junit:4.12'
+    }
+}
